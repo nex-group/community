@@ -1,3 +1,3 @@
 # nex-group/community
 
-This repository contains the community for nex-group.
+You can go to the Discussions tab for more information.
